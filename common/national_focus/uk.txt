@@ -13,9 +13,16 @@ default = yes
 focus = {
 id = eng_1
 icon = GFX_generic_concessions_to_the_trade_unions
+x = 5
+y = 0
 text = FOCUS_NAME_LOC_1
 cost = 10
+prerequisite = none
 
+completion_reward = {
+add_political_power = 0.5
 }
 
+available = {
+is_puppet = yes
 }
