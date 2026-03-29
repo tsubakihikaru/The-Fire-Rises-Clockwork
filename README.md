@@ -15,3 +15,5 @@ An Extract From Clockwork for Social Context:
 
 
 
+---
+[Read the MIT-1.4 License](./LICENSE)
