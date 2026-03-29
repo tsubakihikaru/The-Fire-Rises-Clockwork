@@ -11,6 +11,10 @@ tag = ENG
 default = yes
 
 focus = {
+id = eng_1
+icon = GFX_generic_concessions_to_the_trade_unions
+text = FOCUS_NAME_LOC_1
+cost = 10
 
 }
 
