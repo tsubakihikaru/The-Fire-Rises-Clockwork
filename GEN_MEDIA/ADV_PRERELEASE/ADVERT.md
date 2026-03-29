@@ -16,15 +16,15 @@ between Tibet, Xinjiang and the Southeastern Army–who seem to pose a threat to
 ## 3. INDIVIDUAL CREATOR ANGLES
 
 ### Alex the Rambler - The DISASTER
-Focus: The Russian Breakaway State (ENG)
+Focus: The Russian Breakaway State (ENG) |
 Challenge: "Can you survive the "Russian Interjection" and revert to 'The Old Way,' while restoring the United Kingdom?
 
 ### Isorrowproductions (ISP) - The Community Spark
-Focus: The absolute chaos of the world itself, but specifically, independent Yorkshire, Cumberland and Scotland as well as Norfolk.
+Focus: The absolute chaos of the world itself, but specifically, independent Yorkshire, Cumberland and Scotland as well as Norfolk. |
 Challenge: Explore the 'Animous Theory' and craft solutions on how to break the game **OR** try to unite the world under one nation.
 
 ### B3ttersteel - The Strategic Overhaul
 
 Focus: The Brutal Land Wars in Asia
-Challenge: Unite Xinjiang and Khotan Ma under the banners of the Ughur People's Socialist Republic.
+| Challenge: Unite Xinjiang and Khotan Ma under the banners of the Ughur People's Socialist Republic.
 
