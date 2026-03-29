@@ -1,1 +1,17 @@
-TAG = ENG
+focus_tree = {
+id = eng_focus
+country = {
+factor = 0
+modifier = {
+add = 10
+tag = ENG
+  }
+ }
+
+default = yes
+
+focus = {
+
+}
+
+}
